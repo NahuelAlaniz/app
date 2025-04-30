@@ -1,0 +1,79 @@
+<app-navbar></app-navbar>
+
+<ng-container *ngIf="product; else notFound">
+  <section class="detail-section">
+    <div class="container product-detail">
+      <div class="row justify-content-center align-items-center">
+        <div class="col-md-6 text-center">
+          <img [src]="product.image" [alt]="product.name" class="product-image" />
+        </div>
+        <div class="col-md-6">
+          <h2>{{ product.name }}</h2>
+          <p><strong>Categoría:</strong> {{ product.category }}</p>
+          <p><strong>Talle:</strong> {{ product.size }}</p>
+          <p><strong>Descripción:</strong> {{ product.description }}</p>
+          <p><strong>Precio:</strong> ${{ product.price }}</p>
+          <button class="btn btn-primary" *ngIf="product" (click)="agregarAlCarritoffcanvas(product)" type="button"
+          data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+          Agregar al carrito
+        </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</ng-container>
+
+<ng-template #notFound>
+  <section class="no-section text-center py-5">
+    <p>Producto no encontrado.</p>
+  </section>
+</ng-template>
+
+<!-- Botón para abrir el carrito -->
+<div class="carrito-tab" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+  🛒
+</div>
+<!-- Carrito Offcanvas -->
+<section>
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="offcanvasRightLabel">Carrito de Compras</h5>
+      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div *ngIf="cartService.getCarrito().length === 0">
+        <p>No hay productos en el carrito.</p>
+      </div>
+
+      <div *ngFor="let producto of cartService.getCarrito()" class="mb-3">
+        <div class="d-flex justify-content-between align-items-center">
+          <img [src]="producto.image" alt="{{ producto.name }}"
+            style="height: 60px; width: 60px; object-fit: cover; border-radius: 5px; margin-right: 10px;">
+          <div>
+            <p class="mb-0"><strong>{{ producto.name }}</strong></p>
+            <p class="mb-0"><strong>Talle:</strong> {{ producto.size }}</p>
+            <p class="mb-0"><strong>Precio: </strong>${{ producto.price }}</p>
+            <p><strong>Descripción:</strong> {{ producto.description }}</p>
+            <div class="d-flex align-items-center gap-2">
+              <button (click)="cartService.decrementarCantidad(producto.id)"
+                class="btn btn-sm btn-outline-secondary">-</button>
+              <span>{{ cartService.getCantidad(producto.id) }}</span>
+              <button (click)="cartService.incrementarCantidad(producto.id)" [disabled]="producto.stock === 0"
+                class="btn btn-sm btn-outline-primary">+</button>
+            </div>
+            <!-- Mensaje si no hay stock -->
+            <p *ngIf="producto.stock === 0" class="text-danger small mb-0">¡Sin stock disponible!</p>
+          </div>
+          <button class="btn btn-danger btn-sm" (click)="eliminarDelCarrito(producto.id)">Eliminar</button>
+        </div>
+      </div>
+      <hr>
+      <p class="fw-bold">Total: ${{ cartService.getTotal() }}</p>
+      <button class="btn btn-success w-100" [routerLink]="'/checkout'">Finalizar compra</button>
+    </div>
+  </div>
+</section>
+
+
+
+<app-footer></app-footer>
