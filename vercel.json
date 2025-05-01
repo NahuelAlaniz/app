@@ -13,6 +13,10 @@
         {
             "src": "/(.*)",
             "dest": "/index.html"
+        },
+        {
+            "src": "/polyfills-FFHMD2TL.js",
+            "dest": "/browser/polyfills-FFHMD2TL.js"
         }
     ]
 }
