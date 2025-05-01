@@ -11,12 +11,20 @@
     ],
     "routes": [
         {
+            "src": "/scripts-EEEIPNC3.js",
+            "dest": "/browser/scripts-EEEIPNC3.js"
+        },
+        {
             "src": "/(.*)",
             "dest": "/index.html"
         },
         {
             "src": "/polyfills-FFHMD2TL.js",
             "dest": "/browser/polyfills-FFHMD2TL.js"
+        },
+        {
+            "src": "/main-7SIEWR2V.js",
+            "dest": "/browser/main-7SIEWR2V.js"
         }
     ]
 }
