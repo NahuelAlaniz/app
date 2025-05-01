@@ -674,7 +674,7 @@ export class ProductService {
     //Less
     {
       id: 200,
-      name: 'Less de encaje Pack x3',
+      name: 'Less de encaje',
       size: '85',
       category: 'Parte_inferior',
       image: 'less_de_encaje.jpeg',
