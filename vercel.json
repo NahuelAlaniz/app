@@ -26,5 +26,16 @@
             "src": "/main-7SIEWR2V.js",
             "dest": "/browser/main-7SIEWR2V.js"
         }
+    ],
+    "headers": [
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "Content-Type",
+                    "value": "application/javascript"
+                }
+            ]
+        }
     ]
 }
