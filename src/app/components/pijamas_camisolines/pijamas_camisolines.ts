@@ -12,7 +12,7 @@ declare var bootstrap: any;
 
 
 @Component({
-  selector: 'app-hombres',
+  selector: 'app-camisolines',
   imports: [FooterComponent, NavbarComponent, CommonModule, RouterLink],
   templateUrl: './pijamas_camisolines.html',
   styleUrl: './pijamas_camisolines.css',

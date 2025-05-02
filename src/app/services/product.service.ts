@@ -414,6 +414,72 @@ export class ProductService {
       stock: 1,
       cantidad: 1
     },
+    {
+      id: 106,
+      name: 'Conjunto blanco',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_encaje_95_18000.jpeg',
+      description: 'Conjunto armado microfibra y encaje',
+      price: 18000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 107,
+      name: 'Conjunto estampado',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_algodon_estampado_estrellas_100_17000.jpeg',
+      description: 'Conjunto armado de algodón con estampado de estrellas',
+      price: 17000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 107,
+      name: 'Conjunto rosado estampado',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_algodon_estampado_rosa_95_19000.jpeg',
+      description: 'Conjunto armado de algodón con estampado',
+      price: 19000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 108,
+      name: 'Conjunto rosado',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_sublimada_vedetina_de_encaje_print_95_21000.jpeg',
+      description: 'Conjunto armado de microfibra sublimada con vedetina de encaje print',
+      price: 21000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 109,
+      name: 'Conjunto beige',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_marron_95_18000.jpeg',
+      description: 'Conjunto armado de microfibra',
+      price: 18000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 110,
+      name: 'Conjunto rojo',
+      size: '95',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_rojo_95_19000.jpeg',
+      description: 'Conjunto armado de microfibra',
+      price: 19000,
+      stock: 1,
+      cantidad: 1
+    },
     //conjunto talle 100
     {
       id: 110,
@@ -478,6 +544,17 @@ export class ProductService {
       image: 'conjunto_armado_beige_100.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
       price: 1499,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 116,
+      name: 'Conjunto estampado',
+      size: '100',
+      category: 'Conjunto',
+      image: 'conjunto_armado_algodon_estampado_estrellas_100_17000.jpeg',
+      description: 'Conjunto armado de algodón con estampado de estrellas',
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -552,6 +629,17 @@ export class ProductService {
       stock: 1,
       cantidad: 1
     },
+    {
+      id: 133,
+      name: 'Conjunto beige',
+      size: '110',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_labrada_encaje_marron_110_19000.jpeg',
+      description: 'Conjunto armado de microfibra labrada con encaje',
+      price: 19000,
+      stock: 1,
+      cantidad: 1
+    },
 
 
     //conjunto talle 115
@@ -596,6 +684,30 @@ export class ProductService {
       image: 'conjunto_rosado_115.jpeg',
       description: 'Conjunto armado de microfibra',
       price: 17000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 158,
+      name: 'Conjunto estampado negro',
+      size: '115',
+      category: 'Conjunto',
+      image: 'conjunto_armado_microfibra_estampado_print_115_21000.jpeg',
+      description: 'Conjunto armado de microfibra estampado print',
+      price: 21000,
+      stock: 1,
+      cantidad: 1
+    },
+    //conjunto talle 120
+
+    {
+      id: 230,
+      name: 'Conjunto blanco',
+      size: '120',
+      category: 'Conjunto',
+      image: 'conjunto_armado_algodon_puntilla_120_18000.jpeg',
+      description: 'Conjunto armado de algodón',
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -841,317 +953,317 @@ export class ProductService {
     },
 
 
+
+    //pijama_camisolin
+    //camisolin talle 1
+    {
+      id: 60,
+      name: 'Camisolin blanco',
+      size: '1',
+      category: 'Camisolin',
+      image: 'camisolin_blanco_talle1.jpeg',
+      description: 'Camisolin blanco',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+
+    },
+    {
+      id: 61,
+      name: 'Camisolin blanco',
+      size: '1',
+      category: 'Camisolin',
+      image: 'camisolin_rojo_talle1.jpeg',
+      description: 'Camisolin blanco',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+
+    },
+
     /*
-        //pijama_camisolin
-        //camisolin talle 1
-        {
-          id: 60,
-          name: 'Camisolin blanco',
-          size: '1',
-          category: 'Camisolin',
-          image: 'camisolin_blanco_talle1.jpeg',
-          description: 'Camisolin blanco',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-    
-        },
-        {
-          id: 61,
-          name: 'Camisolin blanco',
-          size: '1',
-          category: 'Camisolin',
-          image: 'camisolin_rojo_talle1.jpeg',
-          description: 'Camisolin blanco',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-    
-        },
-    
-    
-        //medias, soquetes
-        {
-          id: 62,
-          name: 'Producto 1',
-          size: 'S',
-          category: 'soquetes',
-          image: 'niño.png',
-          description: 'Soquetes cómodos',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-    
-        },
-        {
-          id: 63,
-          name: 'Producto 2',
-          size: 'M',
-          category: 'medias',
-          image: 'niño2.png',
-          description: 'Medias cómodas',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 64,
-          name: 'Producto 3',
-          size: 'L',
-          category: 'soquetes',
-          image: 'niño3.png',
-          description: 'Soquetes cómodos',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 65,
-          name: 'Producto 4',
-          size: 'XL',
-          category: 'medias',
-          image: 'niño.png',
-          description: 'Medias cómodas',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 66,
-          name: 'Producto 5',
-          size: 'XXL',
-          category: 'soquetes',
-          image: 'niño2.png',
-          description: 'Soquetes cómodos',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        //ruanas, sacos, sweaters
-        {
-          id: 67,
-          name: 'Ruana 1',
-          size: 'S',
-          category: 'ruanas',
-          image: 'ruana11.png',
-          description: 'Ruanas cómodas',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-        },
-        {
-          id: 68,
-          name: 'Producto 2',
-          size: 'M',
-          category: 'sacos',
-          image: 'saco1.png',
-          description: 'Sacos cómodos',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 69,
-          name: 'Producto 3',
-          size: 'L',
-          category: 'sacos',
-          image: 'saco2.png',
-          description: 'Sweaters cómodo',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 70,
-          name: 'Producto 4',
-          size: 'XL',
-          category: 'sweaters',
-          image: 'sweater1.png',
-          description: 'Sweaters cómodo',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 71,
-          name: 'Producto 5',
-          size: 'XXL',
-          category: 'sweaters',
-          image: 'sweater2.png',
-          description: 'Sweaters cómodo',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        //vestido, pollera
-        {
-          id: 72,
-          name: 'Producto 1',
-          size: 'S',
-          category: 'vestido',
-          image: 'vestido1.webp',
-          description: 'Vestido cómodo',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-        },
-        {
-          id: 73,
-          name: 'Producto 2',
-          size: 'M',
-          category: 'vestido',
-          image: 'vestido2.avif',
-          description: 'Vestido cómodo',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 74,
-          name: 'Producto 3',
-          size: 'L',
-          category: 'pollera',
-          image: 'pollera1.jpg',
-          description: 'Pollera cómoda',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 75,
-          name: 'Producto 4',
-          size: 'XL',
-          category: 'pollera',
-          image: 'pollera2.webp',
-          description: 'Pollera cómoda',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 76,
-          name: 'Producto 5',
-          size: 'XXL',
-          category: 'pollera',
-          image: 'pollera3.webp',
-          description: 'Pollera cómoda',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        //camisa, remera
-        {
-          id: 77,
-          name: 'Producto 1',
-          size: 'S',
-          category: 'camisa',
-          image: 'camisa1.jpg',
-          description: 'Remera cómodas',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-        },
-        {
-          id: 78,
-          name: 'Producto 2',
-          size: 'M',
-          category: 'camisa',
-          image: 'camisa2.jpg',
-          description: 'Remera cómodas',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 79,
-          name: 'Producto 3',
-          size: 'L',
-          category: 'remera',
-          image: 'remera1.jpg',
-          description: 'Remera cómodas',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 80,
-          name: 'Producto 4',
-          size: 'XL',
-          category: 'remera',
-          image: 'remera2.jpg',
-          description: 'Remera cómodas',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        {
-          id: 81,
-          name: 'Producto 5',
-          size: 'XXL',
-          category: 'camisa',
-          image: 'camisa3.jpg',
-          description: 'Camisa cómoda',
-          price: 1499,
-          stock: 10,
-          cantidad: 9
-        },
-        //pantalon_sastrero
-        {
-          id: 82,
-          name: 'Producto 1',
-          size: 'S',
-          category: 'pantalones',
-          image: 'pantalon1.jpeg',
-          description: 'Pantalon Sastrero cómodos',
-          price: 1499,
-          stock: 1,
-          cantidad: 1
-        },
-        {
-          id: 83,
-          name: 'Producto 2',
-          size: 'M',
-          category: 'pantalones',
-          image: 'pantalon2.jpg',
-          description: 'Pantalon Sastrero cómodos',
-          price: 1499,
-          stock: 5,
-          cantidad: 9
-        },
-        {
-          id: 84,
-          name: 'Producto 3',
-          size: 'L',
-          category: 'pantalones',
-          image: 'pantalon3.png',
-          description: 'Pantalon Sastrero cómodos',
-          price: 1499,
-          stock: 5,
-          cantidad: 9
-        },
-        {
-          id: 85,
-          name: 'Producto 4',
-          size: 'XL',
-          category: 'pantalones',
-          image: 'pantalon4.jpg',
-          description: 'Pantalon Sastrero cómodos',
-          price: 1499,
-          stock: 5,
-          cantidad: 9
-        },
-        {
-          id: 86,
-          name: 'Producto 5',
-          size: 'XXL',
-          category: 'pantalones',
-          image: 'pantalon4.jpg',
-          description: 'Pantalon Sastrero cómodos',
-          price: 1499,
-          stock: 5,
-          cantidad: 9
-        },
-    */
+    //medias, soquetes
+    {
+      id: 62,
+      name: 'Producto 1',
+      size: 'S',
+      category: 'soquetes',
+      image: 'niño.png',
+      description: 'Soquetes cómodos',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+ 
+    },
+    {
+      id: 63,
+      name: 'Producto 2',
+      size: 'M',
+      category: 'medias',
+      image: 'niño2.png',
+      description: 'Medias cómodas',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 64,
+      name: 'Producto 3',
+      size: 'L',
+      category: 'soquetes',
+      image: 'niño3.png',
+      description: 'Soquetes cómodos',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 65,
+      name: 'Producto 4',
+      size: 'XL',
+      category: 'medias',
+      image: 'niño.png',
+      description: 'Medias cómodas',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 66,
+      name: 'Producto 5',
+      size: 'XXL',
+      category: 'soquetes',
+      image: 'niño2.png',
+      description: 'Soquetes cómodos',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    //ruanas, sacos, sweaters
+    {
+      id: 67,
+      name: 'Ruana 1',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana11.png',
+      description: 'Ruanas cómodas',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 68,
+      name: 'Producto 2',
+      size: 'M',
+      category: 'sacos',
+      image: 'saco1.png',
+      description: 'Sacos cómodos',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 69,
+      name: 'Producto 3',
+      size: 'L',
+      category: 'sacos',
+      image: 'saco2.png',
+      description: 'Sweaters cómodo',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 70,
+      name: 'Producto 4',
+      size: 'XL',
+      category: 'sweaters',
+      image: 'sweater1.png',
+      description: 'Sweaters cómodo',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 71,
+      name: 'Producto 5',
+      size: 'XXL',
+      category: 'sweaters',
+      image: 'sweater2.png',
+      description: 'Sweaters cómodo',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    //vestido, pollera
+    {
+      id: 72,
+      name: 'Producto 1',
+      size: 'S',
+      category: 'vestido',
+      image: 'vestido1.webp',
+      description: 'Vestido cómodo',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 73,
+      name: 'Producto 2',
+      size: 'M',
+      category: 'vestido',
+      image: 'vestido2.avif',
+      description: 'Vestido cómodo',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 74,
+      name: 'Producto 3',
+      size: 'L',
+      category: 'pollera',
+      image: 'pollera1.jpg',
+      description: 'Pollera cómoda',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 75,
+      name: 'Producto 4',
+      size: 'XL',
+      category: 'pollera',
+      image: 'pollera2.webp',
+      description: 'Pollera cómoda',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 76,
+      name: 'Producto 5',
+      size: 'XXL',
+      category: 'pollera',
+      image: 'pollera3.webp',
+      description: 'Pollera cómoda',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    //camisa, remera
+    {
+      id: 77,
+      name: 'Producto 1',
+      size: 'S',
+      category: 'camisa',
+      image: 'camisa1.jpg',
+      description: 'Remera cómodas',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 78,
+      name: 'Producto 2',
+      size: 'M',
+      category: 'camisa',
+      image: 'camisa2.jpg',
+      description: 'Remera cómodas',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 79,
+      name: 'Producto 3',
+      size: 'L',
+      category: 'remera',
+      image: 'remera1.jpg',
+      description: 'Remera cómodas',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 80,
+      name: 'Producto 4',
+      size: 'XL',
+      category: 'remera',
+      image: 'remera2.jpg',
+      description: 'Remera cómodas',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    {
+      id: 81,
+      name: 'Producto 5',
+      size: 'XXL',
+      category: 'camisa',
+      image: 'camisa3.jpg',
+      description: 'Camisa cómoda',
+      price: 1499,
+      stock: 10,
+      cantidad: 9
+    },
+    //pantalon_sastrero
+    {
+      id: 82,
+      name: 'Producto 1',
+      size: 'S',
+      category: 'pantalones',
+      image: 'pantalon1.jpeg',
+      description: 'Pantalon Sastrero cómodos',
+      price: 1499,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 83,
+      name: 'Producto 2',
+      size: 'M',
+      category: 'pantalones',
+      image: 'pantalon2.jpg',
+      description: 'Pantalon Sastrero cómodos',
+      price: 1499,
+      stock: 5,
+      cantidad: 9
+    },
+    {
+      id: 84,
+      name: 'Producto 3',
+      size: 'L',
+      category: 'pantalones',
+      image: 'pantalon3.png',
+      description: 'Pantalon Sastrero cómodos',
+      price: 1499,
+      stock: 5,
+      cantidad: 9
+    },
+    {
+      id: 85,
+      name: 'Producto 4',
+      size: 'XL',
+      category: 'pantalones',
+      image: 'pantalon4.jpg',
+      description: 'Pantalon Sastrero cómodos',
+      price: 1499,
+      stock: 5,
+      cantidad: 9
+    },
+    {
+      id: 86,
+      name: 'Producto 5',
+      size: 'XXL',
+      category: 'pantalones',
+      image: 'pantalon4.jpg',
+      description: 'Pantalon Sastrero cómodos',
+      price: 1499,
+      stock: 5,
+      cantidad: 9
+    },
+*/
   ];
 
   getProducts() {
