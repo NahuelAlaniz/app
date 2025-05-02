@@ -980,6 +980,506 @@ export class ProductService {
       cantidad: 9
 
     },
+    //pijamas
+    {
+      id: 260,
+      name: 'Pijama verde menta',
+      size: '3',
+      category: 'Pijama',
+      image: 'pijama_pant_polar_soft_verde_menta.jpeg',
+      description: 'Pijama pant polat soft',
+      price: 15000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 261,
+      name: 'Pijama verde menta',
+      size: '4',
+      category: 'Pijama',
+      image: 'pijama_pant_polar_soft_verde_menta.jpeg',
+      description: 'Pijama pant polat soft',
+      price: 15000,
+      stock: 1,
+      cantidad: 1
+    },
+
+    //ruanas, sacos, sweaters
+    {
+      id: 230,
+      name: 'Ruana verde oscuro',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_verde.jpeg',
+      description: 'Ruana lisa verde',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 231,
+      name: 'Ruana gris',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_gris_lineas.jpeg',
+      description: 'Ruana gris con rayas',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 232,
+      name: 'Ruana gris',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_gris_lisa.jpeg',
+      description: 'Ruana gris lisa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 233,
+      name: 'Ruana negra',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_negra_lisa.jpeg',
+      description: 'Ruana negra lisa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 234,
+      name: 'Ruana rosa',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_rosa_lisa.jpeg',
+      description: 'Ruana rosa lisa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 235,
+      name: 'Ruana celeste',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_celeste_lisa.jpeg',
+      description: 'Ruana celeste lisa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 236,
+      name: 'Ruana verde',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_lisa_verde.jpeg',
+      description: 'Ruana verde lisa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 237,
+      name: 'Ruana multicolor',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_multicolor.jpeg',
+      description: 'Ruana verde, marron y blanca',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 238,
+      name: 'Ruana gris',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_gris_rosado.jpeg',
+      description: 'Ruana rosada, negra y blanca',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 239,
+      name: 'Ruana multicolor',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_negra_blanca.jpeg',
+      description: 'Ruana negra y blanca',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 240,
+      name: 'Ruana multicolor',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_verde_negra_gris.jpeg',
+      description: 'Ruana negra, blanca y turquesa',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 241,
+      name: 'Ruana multicolor clara',
+      size: 'S',
+      category: 'ruanas',
+      image: 'ruana_clara.jpeg',
+      description: 'Ruana gris, blanca y crema',
+      price: 14000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 250,
+      name: 'Sweater marron',
+      size: '3',
+      category: 'sweaters',
+      image: 'sweater_marron_lineas_3_25000.jpeg',
+      description: 'Sweater marron con lineas',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 251,
+      name: 'Sweater marron',
+      size: '2',
+      category: 'sweaters',
+      image: 'sweater_marron_lineas_2_25000.jpeg',
+      description: 'Sweater marron con lineas',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 252,
+      name: 'Sweater negro',
+      size: '3',
+      category: 'sweaters',
+      image: 'sweater_negro_lineas_3_25000 -.jpeg',
+      description: 'Sweater negro con lineas',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 253,
+      name: 'Sweater negro',
+      size: '2',
+      category: 'sweaters',
+      image: 'sweater_negro_lineas_2_25000.jpeg',
+      description: 'Sweater negro con lineas',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 254,
+      name: 'Campera',
+      size: '3',
+      category: 'sweaters',
+      image: 'campera_hilo_cardigan_vison_3_26000.jpeg',
+      description: 'Campera de hilo cardigan',
+      price: 26000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 254,
+      name: 'Sweater crema',
+      size: '2',
+      category: 'sweaters',
+      image: 'sweater_morley_crema_2_25000.jpeg',
+      description: 'Sweater morley',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 254,
+      name: 'Sweater gris',
+      size: '3',
+      category: 'sweaters',
+      image: 'sweater_gris_3_37000.jpeg',
+      description: 'Sweater gris',
+      price: 37000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 254,
+      name: 'Sweater multicolor',
+      size: '3',
+      category: 'sweaters',
+      image: 'sweater_hilo_3_25000.jpeg',
+      description: 'Sweater hilo',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    //vestido, pollera
+    {
+      id: 260,
+      name: 'Pollera azul',
+      size: '3',
+      category: 'pollera',
+      image: 'pollera_bengalina_botones_dorados_3_24000.jpeg',
+      description: 'Pollera a la rodilla de bengalina y botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 261,
+      name: 'Pollera blanca',
+      size: '4',
+      category: 'pollera',
+      image: 'pollera_bengalina_botones_dorados_blanco_4_24000.jpeg',
+      description: 'Pollera a la rodilla de bengalina y botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 262,
+      name: 'Pollera negra',
+      size: '4',
+      category: 'pollera',
+      image: 'pollera_bengalina_botones_dorados_negro_5_24000.jpeg',
+      description: 'Pollera a la rodilla de bengalina y botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 263,
+      name: 'Pollera negra',
+      size: '5',
+      category: 'pollera',
+      image: 'pollera_bengalina_botones_dorados_negro_5_24000.jpeg',
+      description: 'Pollera a la rodilla de bengalina y botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 264,
+      name: 'Pollera negra',
+      size: '3',
+      category: 'pollera',
+      image: 'pollera_acampanada_sastrera_negro_5_24000.jpeg',
+      description: 'Pollera acampanada tela sastrera',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 265,
+      name: 'Pollera negra',
+      size: '4',
+      category: 'pollera',
+      image: 'pollera_acampanada_sastrera_negro_5_24000.jpeg',
+      description: 'Pollera acampanada tela sastrera',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 266,
+      name: 'Pollera negra',
+      size: '5',
+      category: 'pollera',
+      image: 'pollera_acampanada_sastrera_negro_5_24000.jpeg',
+      description: 'Pollera acampanada tela sastrera',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 267,
+      name: 'Pollera negra',
+      size: '42',
+      category: 'pollera',
+      image: 'Pollera_gabardina_negra_42_24000.jpeg',
+      description: 'Pollera gabardina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 268,
+      name: 'Pollera negra',
+      size: '36',
+      category: 'pollera',
+      image: 'Pollera_gabardina_negra_42_24000.jpeg',
+      description: 'Pollera gabardina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 269,
+      name: 'Pollera negra',
+      size: '42',
+      category: 'pollera',
+      image: 'Pollera_gabardina_negra_42_24000.jpeg',
+      description: 'Pollera gabardina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 270,
+      name: 'Pollera blanca',
+      size: '44',
+      category: 'pollera',
+      image: 'pollera_bengalina_blanco_44_cadena_24000.jpeg',
+      description: 'Pollera bengalina con cadena',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 271,
+      name: 'Pollera blanca',
+      size: '44',
+      category: 'pollera',
+      image: 'pollera_bengalina_negro_44_cadena_24000.jpeg',
+      description: 'Pollera bengalina con cadena',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 272,
+      name: 'Pollera negra',
+      size: '40',
+      category: 'pollera',
+      image: 'pollera_gabardina_negra_botones_dorados_40_24000.jpeg',
+      description: 'Pollera gabardina con botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 273,
+      name: 'Pollera blanca',
+      size: '42',
+      category: 'pollera',
+      image: 'pollera_gabardina_blanco_botones_dorados_42_24000.jpeg',
+      description: 'Pollera gabardina con botones dorados',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 274,
+      name: 'Pollera negra',
+      size: '42',
+      category: 'pollera',
+      image: 'pollera_engomada_negro_tajo_42_24000.jpeg',
+      description: 'Pollera engomada con tajo atrás',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 275,
+      name: 'Pollera marron',
+      size: '46',
+      category: 'pollera',
+      image: 'pollera_engomada_marron_46_24000.jpeg',
+      description: 'Pollera engomada',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 276,
+      name: 'Pollera blanca',
+      size: '40',
+      category: 'pollera',
+      image: 'pollera_engomada_blanca_tajo_40_24000.jpeg',
+      description: 'Pollera engomada con tajo atrás',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 277,
+      name: 'Pollera bordó',
+      size: '38',
+      category: 'pollera',
+      image: 'pollera_bengalina_volado_bordo_40_24000.jpeg',
+      description: 'Pollera a la rodilla bengalina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 278,
+      name: 'Pollera bordó',
+      size: '40',
+      category: 'pollera',
+      image: 'pollera_bengalina_volado_bordo_40_24000.jpeg',
+      description: 'Pollera a la rodilla bengalina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 279,
+      name: 'Pollera rosa',
+      size: '40',
+      category: 'pollera',
+      image: 'pollera_bengalina_volado_rosa_40_24000.jpeg',
+      description: 'Pollera a la rodilla bengalina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 280,
+      name: 'Pollera azul oscuro',
+      size: '42',
+      category: 'pollera',
+      image: 'pollera_bengalina_volado_bordo_42_24000.jpeg',
+      description: 'Pollera a la rodilla bengalina',
+      price: 24000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 281,
+      name: 'Pollera negra',
+      size: '46',
+      category: 'pollera',
+      image: 'Pollera_larga_termica_negro_46_30500.jpeg',
+      description: 'Pollera larga térmica',
+      price: 30500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 282,
+      name: 'Vestido negro',
+      size: 'P',
+      category: 'vestido',
+      image: 'vestido_gabardina_negro_p_40000.jpeg',
+      description: 'Vestido de gabardina',
+      price: 40000,
+      stock: 1,
+      cantidad: 1
+    },
+
 
     /*
     //medias, soquetes
@@ -1035,118 +1535,6 @@ export class ProductService {
       category: 'soquetes',
       image: 'niño2.png',
       description: 'Soquetes cómodos',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    //ruanas, sacos, sweaters
-    {
-      id: 67,
-      name: 'Ruana 1',
-      size: 'S',
-      category: 'ruanas',
-      image: 'ruana11.png',
-      description: 'Ruanas cómodas',
-      price: 1499,
-      stock: 1,
-      cantidad: 1
-    },
-    {
-      id: 68,
-      name: 'Producto 2',
-      size: 'M',
-      category: 'sacos',
-      image: 'saco1.png',
-      description: 'Sacos cómodos',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 69,
-      name: 'Producto 3',
-      size: 'L',
-      category: 'sacos',
-      image: 'saco2.png',
-      description: 'Sweaters cómodo',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 70,
-      name: 'Producto 4',
-      size: 'XL',
-      category: 'sweaters',
-      image: 'sweater1.png',
-      description: 'Sweaters cómodo',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 71,
-      name: 'Producto 5',
-      size: 'XXL',
-      category: 'sweaters',
-      image: 'sweater2.png',
-      description: 'Sweaters cómodo',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    //vestido, pollera
-    {
-      id: 72,
-      name: 'Producto 1',
-      size: 'S',
-      category: 'vestido',
-      image: 'vestido1.webp',
-      description: 'Vestido cómodo',
-      price: 1499,
-      stock: 1,
-      cantidad: 1
-    },
-    {
-      id: 73,
-      name: 'Producto 2',
-      size: 'M',
-      category: 'vestido',
-      image: 'vestido2.avif',
-      description: 'Vestido cómodo',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 74,
-      name: 'Producto 3',
-      size: 'L',
-      category: 'pollera',
-      image: 'pollera1.jpg',
-      description: 'Pollera cómoda',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 75,
-      name: 'Producto 4',
-      size: 'XL',
-      category: 'pollera',
-      image: 'pollera2.webp',
-      description: 'Pollera cómoda',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 76,
-      name: 'Producto 5',
-      size: 'XXL',
-      category: 'pollera',
-      image: 'pollera3.webp',
-      description: 'Pollera cómoda',
       price: 1499,
       stock: 10,
       cantidad: 9

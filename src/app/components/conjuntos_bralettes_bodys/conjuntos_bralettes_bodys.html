@@ -15,8 +15,11 @@
 <!-- Filtro por categoría -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
+    <button type="button" class="btn btn-dark" (click)="filterByCategory('niña')">
+      Conjuntos de niña
+    </button>
     <button type="button" class="btn btn-dark" (click)="filterByCategory('Conjunto')">
-      Conjuntos
+      Conjuntos de mujer
     </button>
     <button type="button" class="btn btn-dark" (click)="filterByCategory('Bralette')">
       Bralettes
@@ -30,7 +33,6 @@
     <button type="button" class="btn btn-dark" (click)="filterByCategory('Parte_inferior')">
       Parte inferior
     </button>
-
     <button type="button" class="btn btn-dark" (click)="showAll()">
       Todos
     </button>

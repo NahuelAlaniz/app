@@ -18,7 +18,7 @@
     <button type="button" class="btn btn-dark" (click)="filterByCategory('Camisolin')">
       Camisolines
     </button>
-    <button type="button" class="btn btn-dark" (click)="filterByCategory('Pijama')">
+    <button type="button" class="btn btn-light" (click)="filterByCategory('Pijama')">
       Pijamas
     </button>
     <button type="button" class="btn btn-dark" (click)="showAll()">
@@ -30,7 +30,9 @@
 <!-- Filtro por talle -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
-    <button type="button" class="btn btn-dark" (click)="filterBySize('1')">1</button>
+    <button type="button" class="btn btn-light" (click)="filterBySize('3')">3</button>
+    <button type="button" class="btn btn-light" (click)="filterBySize('4')">4</button>
+
   </div>
 </section>
 
@@ -46,7 +48,7 @@
             <h5 class="card-title">{{ product.name }}</h5>
             <p><strong>Talle:</strong> {{ product.size }}</p>
             <p><strong>Descripción:</strong> {{ product.description }}</p>
-            <p><strong>Precio:</strong> ${{ product.price }}</p>  
+            <p><strong>Precio:</strong> ${{ product.price }}</p>
             <button class="btn btn-primary" *ngIf="product" [disabled]="product.stock <= 0"
               (click)="agregarAlCarritoffcanvas(product)" type="button" data-bs-toggle="offcanvas"
               data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
