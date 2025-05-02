@@ -14,10 +14,10 @@ declare var bootstrap: any;
 @Component({
   selector: 'app-jovenes',
   imports: [FooterComponent, NavbarComponent, CommonModule, RouterLink],
-  templateUrl: './jovenes.component.html',
-  styleUrl: './jovenes.component.css',
+  templateUrl: './boxers.component.html',
+  styleUrl: './boxers.component.css',
 })
-export class JovenesComponent {
+export class BoxersComponent {
 
   productslistservice: Productmodelsinterface[] = [];
 
@@ -47,7 +47,7 @@ export class JovenesComponent {
     this.productslistservice = this.productService
       .getProducts()
       .filter((product: { category: string }) =>
-        ['medias', 'soquetes'].includes(product.category)
+        ['adulto', 'niño'].includes(product.category)
       );
     this.filteredProducts = [...this.productslistservice];
   }

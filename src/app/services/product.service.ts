@@ -31,8 +31,8 @@ export class ProductService {
       image: 'bralette_negro_detalle_90.jpeg',
       description: 'Bralette con aro negro de tull y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 13,
@@ -42,8 +42,8 @@ export class ProductService {
       image: 'conjunto_negro_85.jpeg',
       description: 'Bralette de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //bralette talle 90
 
@@ -55,8 +55,8 @@ export class ProductService {
       image: 'bralette_negro_flores_90.jpeg',
       description: 'Bralette de encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 25,
@@ -66,8 +66,8 @@ export class ProductService {
       image: 'bralette_naranja_90.jpeg',
       description: 'Bralette de saten con puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 26,
@@ -77,8 +77,8 @@ export class ProductService {
       image: 'bralette_fluorecente_90.jpeg',
       description: 'Bralette morley',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 27,
@@ -88,8 +88,8 @@ export class ProductService {
       image: 'bralette_blanco_90_violeta.jpeg',
       description: 'Bralette de tull y encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 28,
@@ -99,8 +99,8 @@ export class ProductService {
       image: 'bralette_marino_90.jpeg',
       description: 'Bralette de encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 29,
@@ -110,8 +110,8 @@ export class ProductService {
       image: 'bralette_negro_detalle_90.jpeg',
       description: 'Bralette con aro de tull y encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     //bralette talle 95
@@ -123,8 +123,8 @@ export class ProductService {
       image: 'bralette_claro_95.jpeg',
       description: 'Bralette con aro con tull y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 41,
@@ -134,8 +134,8 @@ export class ProductService {
       image: 'bralette_naranja_95.jpeg',
       description: 'Bralette de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 42,
@@ -145,8 +145,8 @@ export class ProductService {
       image: 'bralette_negro_95.jpeg',
       description: 'Bralette con aro y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //bralette talle 100
     {
@@ -157,8 +157,8 @@ export class ProductService {
       image: 'bralette_rojo_100.jpeg',
       description: 'Bralette de tull y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 51,
@@ -168,8 +168,8 @@ export class ProductService {
       image: 'bralette_pardo_negro_100.jpeg',
       description: 'Bralette de tull print',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 52,
@@ -179,8 +179,8 @@ export class ProductService {
       image: 'bralette_blanco_100.jpeg',
       description: 'Bralette deportivo de algodón y elástico',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
 
@@ -193,8 +193,8 @@ export class ProductService {
       image: 'bralette_blanco_105.jpeg',
       description: 'Bralette armado de tull y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     //conjunto talle 85
@@ -206,8 +206,8 @@ export class ProductService {
       image: 'conjunto_rojo_85.jpeg',
       description: 'Conjunto armado de puntilla y tull',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
 
     },
     {
@@ -218,8 +218,8 @@ export class ProductService {
       image: 'conjunto_blanco_85.jpeg',
       description: 'Conjunto armado de puntilla y tull',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
 
     },
 
@@ -234,8 +234,8 @@ export class ProductService {
       image: 'conjunto_pardo_90.jpeg',
       description: 'Conjunto armado de algodon estampado print',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 81,
@@ -245,8 +245,8 @@ export class ProductService {
       image: 'conjunto_gris_oscuro_90.jpeg',
       description: 'Conjunto armado de algodon símil jeans',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 82,
@@ -256,8 +256,8 @@ export class ProductService {
       image: 'conjunto_negro_90.jpeg',
       description: 'Conjunto armado de microfibra',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 83,
@@ -267,8 +267,8 @@ export class ProductService {
       image: 'conjunto_blanco_90_puntos.jpeg',
       description: 'Conjunto armado de microfibra elaborada',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 84,
@@ -278,8 +278,8 @@ export class ProductService {
       image: 'conjunto_blanco_90.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 85,
@@ -289,8 +289,8 @@ export class ProductService {
       image: 'conjunto_blanco_90_estrellas.jpeg',
       description: 'Conjunto armado de algodon estampado estrella',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 86,
@@ -300,8 +300,8 @@ export class ProductService {
       image: 'conjunto_blanco_90_detalles.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 87,
@@ -311,8 +311,8 @@ export class ProductService {
       image: 'conjunto_beige_90.jpeg',
       description: 'Conjunto armado de algodon y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 88,
@@ -322,8 +322,8 @@ export class ProductService {
       image: 'conjunto_beige_90_flores.jpeg',
       description: 'Conjunto armado de microfibra elaborada con vedetina',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 89,
@@ -333,8 +333,8 @@ export class ProductService {
       image: 'conjunto_blanco_90_raro.jpeg',
       description: 'Conjunto tripack de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 90,
@@ -344,8 +344,8 @@ export class ProductService {
       image: 'conjunto_rojo_90.jpeg',
       description: 'Conjunto deportivo de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //Conjunto talle 95
     {
@@ -356,8 +356,8 @@ export class ProductService {
       image: 'conjunto_verde_95.jpeg',
       description: 'Conjunto triangulo taza soft de encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 101,
@@ -367,8 +367,8 @@ export class ProductService {
       image: 'conjunto_rojo_95.jpeg',
       description: 'Conjunto armado de puntilla y tull',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 102,
@@ -378,8 +378,8 @@ export class ProductService {
       image: 'conjunto_azul_oscuro_95.jpeg',
       description: 'Conjunto armado de algodon símil jeans',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 103,
@@ -389,8 +389,8 @@ export class ProductService {
       image: 'conjunto_blanco_raro_95.jpeg',
       description: 'Conjunto triangulito taza soft de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 104,
@@ -400,8 +400,8 @@ export class ProductService {
       image: 'conjunto_blanco_95.jpeg',
       description: 'Conjunto tripack de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 105,
@@ -411,8 +411,8 @@ export class ProductService {
       image: 'conjunto_negro_95.jpeg',
       description: 'Conjunto tripack de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //conjunto talle 100
     {
@@ -423,8 +423,8 @@ export class ProductService {
       image: 'conjunto_beige_100.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 111,
@@ -434,8 +434,8 @@ export class ProductService {
       image: 'conjunto_rosado_100.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 112,
@@ -445,8 +445,8 @@ export class ProductService {
       image: 'conjunto_negro_100.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 113,
@@ -456,8 +456,8 @@ export class ProductService {
       image: 'conjunto_bordó_100.jpeg',
       description: 'Conjunto armado de puntilla y tul con vedetina',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 114,
@@ -467,8 +467,8 @@ export class ProductService {
       image: 'bralette_rojo_falda_100.jpeg',
       description: 'Conjunto tripack de encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 115,
@@ -478,8 +478,8 @@ export class ProductService {
       image: 'conjunto_armado_beige_100.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     //conjunto talle 105
@@ -491,8 +491,8 @@ export class ProductService {
       image: 'conjunto_negro_105.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 121,
@@ -502,8 +502,8 @@ export class ProductService {
       image: 'conjunto_turquesa_105.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //conjunto talle 110
     {
@@ -514,8 +514,8 @@ export class ProductService {
       image: 'conjunto_negro_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     {
@@ -526,8 +526,8 @@ export class ProductService {
       image: 'conjunto_celeste_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     {
@@ -538,8 +538,8 @@ export class ProductService {
       image: 'conjunto_negro_liso_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 133,
@@ -549,8 +549,8 @@ export class ProductService {
       image: 'conjunto_blanco_110.jpeg',
       description: 'Conjunto armado de microfibra',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
 
@@ -563,8 +563,8 @@ export class ProductService {
       image: 'conjunto_beige_115.jpeg',
       description: 'Conjunto armado de algodón y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 155,
@@ -574,8 +574,8 @@ export class ProductService {
       image: 'conjunto_verde_115.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 156,
@@ -585,8 +585,8 @@ export class ProductService {
       image: 'conjunto_negro_115.jpeg',
       description: 'Conjunto armado de encaje',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 157,
@@ -596,8 +596,8 @@ export class ProductService {
       image: 'conjunto_rosado_115.jpeg',
       description: 'Conjunto armado de microfibra',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //corpiño talle 100
     {
@@ -608,8 +608,8 @@ export class ProductService {
       image: 'corpiño_mariposa_100.jpeg',
       description: 'Corpiño reductor de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
 
     //corpiño talle 105
@@ -621,8 +621,8 @@ export class ProductService {
       image: 'corpiño_reductor_hueso_105.jpeg',
       description: 'Corpiño reductor de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     {
       id: 172,
@@ -632,8 +632,8 @@ export class ProductService {
       image: 'corpiño_reductor_negro_105.jpeg',
       description: 'Corpiño reductor de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //corpiño talle 110
     {
@@ -644,8 +644,8 @@ export class ProductService {
       image: 'corpiño_amamantar_110.jpeg',
       description: 'Corpiño de amamantar de algodón',
       price: 1499,
-      stock: 9,
-      cantidad: 9
+      stock: 1,
+      cantidad: 1
     },
     //Parte inferior
     //Vedetinas
@@ -682,6 +682,162 @@ export class ProductService {
       price: 9000,
       stock: 9,
       cantidad: 9
+    },
+    //Boxers_niños
+    {
+      id: 210,
+      name: 'Boxer de niño gris',
+      size: '12',
+      category: 'niño',
+      image: 'boxer_niño_gris_12.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 211,
+      name: 'Boxer de niño amarillo',
+      size: '12',
+      category: 'niño',
+      image: 'boxer_niño_amarillo_12.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 212,
+      name: 'Boxer de niño amarillo',
+      size: '14',
+      category: 'niño',
+      image: 'boxer_niño_amarillo_14.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 213,
+      name: 'Boxer de niño lody',
+      size: '14',
+      category: 'niño',
+      image: 'boxer_niño_lody_14.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 214,
+      name: 'Boxer de niño azul',
+      size: '14',
+      category: 'niño',
+      image: 'boxer_niño_azul_14.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 215,
+      name: 'Boxer de niño estampado playa',
+      size: '14',
+      category: 'niño',
+      image: 'boxer_niño_hawaii_14.jpeg',
+      description: 'Boxer de niño',
+      price: 8500,
+      stock: 1,
+      cantidad: 1
+    },
+    //boxers_adultos
+    {
+      id: 220,
+      name: 'Boxer de hombre azul marino',
+      size: 'S',
+      category: 'adulto',
+      image: 'boxer_hombre_azul_marino_S.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 221,
+      name: 'Boxer de hombre color oxido',
+      size: 'M',
+      category: 'adulto',
+      image: 'boxer_hombre_oxido_M.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 222,
+      name: 'Boxer de hombre estampado turquesa',
+      size: 'M',
+      category: 'adulto',
+      image: 'boxer_hombre_estampado_turquesa_M.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 223,
+      name: 'Boxer de hombre celeste bb',
+      size: 'XL',
+      category: 'adulto',
+      image: 'boxer_hombre_celeste_bb_Ck_XL.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 224,
+      name: 'Boxer de hombre estampado flamenco',
+      size: 'XL',
+      category: 'adulto',
+      image: 'boxer_hombre_estampado_flamencos_XL.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 225,
+      name: 'Boxer de hombre estampado cadaveres',
+      size: 'XL',
+      category: 'adulto',
+      image: 'boxer_hombre_estampado_cadaveres_XL.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 226,
+      name: 'Boxer de hombre estampado negro',
+      size: 'XL',
+      category: 'adulto',
+      image: 'boxer_hombre_estampado_negro_XL.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 227,
+      name: 'Boxer de hombre estampado playa',
+      size: 'XL',
+      category: 'adulto',
+      image: 'boxer_hombre_estampado_playa_XL.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
     },
 
 

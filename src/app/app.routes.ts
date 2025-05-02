@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { MainComponent } from './components/main/main.component';
 import { conjuntos_bralettes_bodys } from './components/conjuntos_bralettes_bodys/conjuntos_bralettes_bodys';
 import { pijamas_camisolines } from './components/pijamas_camisolines/pijamas_camisolines';
-import { JovenesComponent } from './components/jovenes/jovenes.component';
+import { BoxersComponent } from './components/boxers/boxers.component';
 import { DetailComponent } from './components/detail/detail.component';
 import { RuanasComponent } from './components/ruanas/ruanas.component';
 import { VestidosComponent } from './components/vestidos/vestidos.component';
@@ -18,7 +18,7 @@ export const routes: Routes = [
     { path: 'inicio', component: MainComponent },
     { path: 'conjuntos_bralettes_bodys', component: conjuntos_bralettes_bodys },
     { path: 'pijamas_camisolines', component: pijamas_camisolines },
-    { path: 'ropa-jovenes', component: JovenesComponent },
+    { path: 'boxers', component: BoxersComponent },
     { path: 'detail/:id', component: DetailComponent },
     { path: 'ruanas', component: RuanasComponent },
     { path: 'vestidos', component: VestidosComponent },
