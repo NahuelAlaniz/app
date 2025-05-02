@@ -30,7 +30,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_negro_detalle_90.jpeg',
       description: 'Bralette con aro negro de tull y puntilla',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -41,7 +41,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'conjunto_negro_85.jpeg',
       description: 'Bralette de algodón',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -54,7 +54,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_negro_flores_90.jpeg',
       description: 'Bralette de encaje',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -65,7 +65,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_naranja_90.jpeg',
       description: 'Bralette de saten con puntilla',
-      price: 1499,
+      price: 14000,
       stock: 1,
       cantidad: 1
     },
@@ -76,7 +76,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_fluorecente_90.jpeg',
       description: 'Bralette morley',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -87,7 +87,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_blanco_90_violeta.jpeg',
       description: 'Bralette de tull y encaje',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -98,7 +98,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_marino_90.jpeg',
       description: 'Bralette de encaje',
-      price: 1499,
+      price: 13000,
       stock: 1,
       cantidad: 1
     },
@@ -109,7 +109,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_negro_detalle_90.jpeg',
       description: 'Bralette con aro de tull y encaje',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -122,7 +122,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_claro_95.jpeg',
       description: 'Bralette con aro con tull y puntilla',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -133,7 +133,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_naranja_95.jpeg',
       description: 'Bralette de puntilla',
-      price: 1499,
+      price: 13000,
       stock: 1,
       cantidad: 1
     },
@@ -144,7 +144,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_negro_95.jpeg',
       description: 'Bralette con aro y puntilla',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -156,7 +156,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_rojo_100.jpeg',
       description: 'Bralette de tull y puntilla',
-      price: 1499,
+      price: 13000,
       stock: 1,
       cantidad: 1
     },
@@ -167,7 +167,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_pardo_negro_100.jpeg',
       description: 'Bralette de tull print',
-      price: 1499,
+      price: 13500,
       stock: 1,
       cantidad: 1
     },
@@ -178,7 +178,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_blanco_100.jpeg',
       description: 'Bralette deportivo de algodón y elástico',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -192,7 +192,7 @@ export class ProductService {
       category: 'Bralette',
       image: 'bralette_blanco_105.jpeg',
       description: 'Bralette armado de tull y puntilla',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -205,7 +205,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_rojo_85.jpeg',
       description: 'Conjunto armado de puntilla y tull',
-      price: 1499,
+      price: 15500,
       stock: 1,
       cantidad: 1
 
@@ -217,7 +217,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_85.jpeg',
       description: 'Conjunto armado de puntilla y tull',
-      price: 1499,
+      price: 15500,
       stock: 1,
       cantidad: 1
 
@@ -233,7 +233,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_pardo_90.jpeg',
       description: 'Conjunto armado de algodon estampado print',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -244,7 +244,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_gris_oscuro_90.jpeg',
       description: 'Conjunto armado de algodon símil jeans',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -255,7 +255,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_90.jpeg',
       description: 'Conjunto armado de microfibra',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -266,7 +266,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_90_puntos.jpeg',
       description: 'Conjunto armado de microfibra elaborada',
-      price: 1499,
+      price: 19000,
       stock: 1,
       cantidad: 1
     },
@@ -277,7 +277,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_90.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
-      price: 1499,
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -288,7 +288,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_90_estrellas.jpeg',
       description: 'Conjunto armado de algodon estampado estrella',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -299,7 +299,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_90_detalles.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -310,7 +310,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_beige_90.jpeg',
       description: 'Conjunto armado de algodon y puntilla',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -321,7 +321,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_beige_90_flores.jpeg',
       description: 'Conjunto armado de microfibra elaborada con vedetina',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -332,7 +332,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_90_raro.jpeg',
       description: 'Conjunto tripack de puntilla',
-      price: 1499,
+      price: 15000,
       stock: 1,
       cantidad: 1
     },
@@ -343,7 +343,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_rojo_90.jpeg',
       description: 'Conjunto deportivo de algodón',
-      price: 1499,
+      price: 14000,
       stock: 1,
       cantidad: 1
     },
@@ -355,7 +355,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_verde_95.jpeg',
       description: 'Conjunto triangulo taza soft de encaje',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -366,7 +366,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_rojo_95.jpeg',
       description: 'Conjunto armado de puntilla y tull',
-      price: 1499,
+      price: 15500,
       stock: 1,
       cantidad: 1
     },
@@ -377,7 +377,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_azul_oscuro_95.jpeg',
       description: 'Conjunto armado de algodon símil jeans',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -388,7 +388,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_raro_95.jpeg',
       description: 'Conjunto triangulito taza soft de puntilla',
-      price: 1499,
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -399,7 +399,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_95.jpeg',
       description: 'Conjunto tripack de puntilla',
-      price: 1499,
+      price: 15000,
       stock: 1,
       cantidad: 1
     },
@@ -410,7 +410,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_95.jpeg',
       description: 'Conjunto tripack de puntilla',
-      price: 1499,
+      price: 15000,
       stock: 1,
       cantidad: 1
     },
@@ -422,7 +422,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_beige_100.jpeg',
       description: 'Conjunto armado de microfibra y encaje',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -433,7 +433,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_rosado_100.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
-      price: 1499,
+      price: 16000,
       stock: 1,
       cantidad: 1
     },
@@ -444,7 +444,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_100.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -455,7 +455,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_bordó_100.jpeg',
       description: 'Conjunto armado de puntilla y tul con vedetina',
-      price: 1499,
+      price: 20000,
       stock: 1,
       cantidad: 1
     },
@@ -466,7 +466,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'bralette_rojo_falda_100.jpeg',
       description: 'Conjunto tripack de encaje',
-      price: 1499,
+      price: 14500,
       stock: 1,
       cantidad: 1
     },
@@ -490,7 +490,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_105.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 19000,
       stock: 1,
       cantidad: 1
     },
@@ -501,7 +501,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_turquesa_105.jpeg',
       description: 'Conjunto triangulo taza soft de puntilla',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -513,7 +513,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 19000,
       stock: 1,
       cantidad: 1
     },
@@ -525,7 +525,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_celeste_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -537,7 +537,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_liso_110.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 20000,
       stock: 1,
       cantidad: 1
     },
@@ -548,13 +548,13 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_blanco_110.jpeg',
       description: 'Conjunto armado de microfibra',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
 
 
-    //conjunto talle 110
+    //conjunto talle 115
     {
       id: 140,
       name: 'Conjunto beige',
@@ -562,7 +562,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_beige_115.jpeg',
       description: 'Conjunto armado de algodón y puntilla',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -573,7 +573,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_verde_115.jpeg',
       description: 'Conjunto armado de microfibra y puntilla',
-      price: 1499,
+      price: 19000,
       stock: 1,
       cantidad: 1
     },
@@ -584,7 +584,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_negro_115.jpeg',
       description: 'Conjunto armado de encaje',
-      price: 1499,
+      price: 18000,
       stock: 1,
       cantidad: 1
     },
@@ -595,7 +595,7 @@ export class ProductService {
       category: 'Conjunto',
       image: 'conjunto_rosado_115.jpeg',
       description: 'Conjunto armado de microfibra',
-      price: 1499,
+      price: 17000,
       stock: 1,
       cantidad: 1
     },
@@ -607,7 +607,7 @@ export class ProductService {
       category: 'Corpiño',
       image: 'corpiño_mariposa_100.jpeg',
       description: 'Corpiño reductor de algodón',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
@@ -620,7 +620,7 @@ export class ProductService {
       category: 'Corpiño',
       image: 'corpiño_reductor_hueso_105.jpeg',
       description: 'Corpiño reductor de algodón',
-      price: 1499,
+      price: 13000,
       stock: 1,
       cantidad: 1
     },
@@ -631,7 +631,7 @@ export class ProductService {
       category: 'Corpiño',
       image: 'corpiño_reductor_negro_105.jpeg',
       description: 'Corpiño reductor de algodón',
-      price: 1499,
+      price: 13000,
       stock: 1,
       cantidad: 1
     },
@@ -643,7 +643,7 @@ export class ProductService {
       category: 'Corpiño',
       image: 'corpiño_amamantar_110.jpeg',
       description: 'Corpiño de amamantar de algodón',
-      price: 1499,
+      price: 12000,
       stock: 1,
       cantidad: 1
     },
