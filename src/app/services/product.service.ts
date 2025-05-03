@@ -951,6 +951,17 @@ export class ProductService {
       stock: 1,
       cantidad: 1
     },
+    {
+      id: 428,
+      name: 'Boxer de hombre rosado',
+      size: 'XXL',
+      category: 'adulto',
+      image: 'boxer_hombre_lody_rosado_XXL_13500.jpeg',
+      description: 'Boxer de hombre',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
 
 
 
@@ -1679,6 +1690,7 @@ export class ProductService {
   getProducts() {
     return this.productslistservice;
   }
+
 
   getProductById(id: number): Productmodelsinterface | undefined {
     return this.productslistservice.find(p => p.id === id);
