@@ -15,11 +15,11 @@
 <!-- Filtro por categoría -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
-    <button type="button" class="btn btn-dark" (click)="filterByCategory('camisa')">
-      Camisa
-    </button>
     <button type="button" class="btn btn-dark" (click)="filterByCategory('remera')">
       Remera
+    </button>
+    <button type="button" class="btn btn-dark" (click)="filterByCategory('camisa')">
+      Camisa
     </button>
     <button type="button" class="btn btn-dark" (click)="showAll()">
       Todos
@@ -30,11 +30,8 @@
 <!-- Filtro por talle -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
-    <button type="button" class="btn btn-dark" (click)="filterBySize('S')">S</button>
     <button type="button" class="btn btn-dark" (click)="filterBySize('M')">M</button>
     <button type="button" class="btn btn-dark" (click)="filterBySize('L')">L</button>
-    <button type="button" class="btn btn-dark" (click)="filterBySize('XL')">XL</button>
-    <button type="button" class="btn btn-dark" (click)="filterBySize('XXL')">XXL</button>
   </div>
 </section>
 
@@ -50,7 +47,7 @@
             <h5 class="card-title">{{ product.name }}</h5>
             <p><strong>Talle:</strong> {{ product.size }}</p>
             <p><strong>Descripción:</strong> {{ product.description }}</p>
-            <p><strong>Precio:</strong> ${{ product.price }}</p>  
+            <p><strong>Precio:</strong> ${{ product.price }}</p>
             <button class="btn btn-primary" *ngIf="product" [disabled]="product.stock <= 0"
               (click)="agregarAlCarritoffcanvas(product)" type="button" data-bs-toggle="offcanvas"
               data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">

@@ -962,22 +962,22 @@ export class ProductService {
       size: '1',
       category: 'Camisolin',
       image: 'camisolin_blanco_talle1.jpeg',
-      description: 'Camisolin blanco',
-      price: 1499,
+      description: 'Camisolin blanco de tul y encaje',
+      price: 15000,
       stock: 1,
       cantidad: 1
 
     },
     {
       id: 61,
-      name: 'Camisolin blanco',
+      name: 'Camisolin rojo',
       size: '1',
       category: 'Camisolin',
       image: 'camisolin_rojo_talle1.jpeg',
-      description: 'Camisolin blanco',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
+      description: 'Camisolin rojo de tul y encaje',
+      price: 15000,
+      stock: 1,
+      cantidad: 1
 
     },
     //pijamas
@@ -987,7 +987,7 @@ export class ProductService {
       size: '3',
       category: 'Pijama',
       image: 'pijama_pant_polar_soft_verde_menta.jpeg',
-      description: 'Pijama pant polat soft',
+      description: 'Pijama pant polar soft',
       price: 15000,
       stock: 1,
       cantidad: 1
@@ -998,7 +998,7 @@ export class ProductService {
       size: '4',
       category: 'Pijama',
       image: 'pijama_pant_polar_soft_verde_menta.jpeg',
-      description: 'Pijama pant polat soft',
+      description: 'Pijama pant polar soft',
       price: 15000,
       stock: 1,
       cantidad: 1
@@ -1008,7 +1008,7 @@ export class ProductService {
     {
       id: 230,
       name: 'Ruana verde oscuro',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_verde.jpeg',
       description: 'Ruana lisa verde',
@@ -1019,7 +1019,7 @@ export class ProductService {
     {
       id: 231,
       name: 'Ruana gris',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_gris_lineas.jpeg',
       description: 'Ruana gris con rayas',
@@ -1030,7 +1030,7 @@ export class ProductService {
     {
       id: 232,
       name: 'Ruana gris',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_gris_lisa.jpeg',
       description: 'Ruana gris lisa',
@@ -1041,7 +1041,7 @@ export class ProductService {
     {
       id: 233,
       name: 'Ruana negra',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_negra_lisa.jpeg',
       description: 'Ruana negra lisa',
@@ -1052,7 +1052,7 @@ export class ProductService {
     {
       id: 234,
       name: 'Ruana rosa',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_rosa_lisa.jpeg',
       description: 'Ruana rosa lisa',
@@ -1063,7 +1063,7 @@ export class ProductService {
     {
       id: 235,
       name: 'Ruana celeste',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_celeste_lisa.jpeg',
       description: 'Ruana celeste lisa',
@@ -1074,7 +1074,7 @@ export class ProductService {
     {
       id: 236,
       name: 'Ruana verde',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_lisa_verde.jpeg',
       description: 'Ruana verde lisa',
@@ -1085,7 +1085,7 @@ export class ProductService {
     {
       id: 237,
       name: 'Ruana multicolor',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_multicolor.jpeg',
       description: 'Ruana verde, marron y blanca',
@@ -1096,7 +1096,7 @@ export class ProductService {
     {
       id: 238,
       name: 'Ruana gris',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_gris_rosado.jpeg',
       description: 'Ruana rosada, negra y blanca',
@@ -1107,7 +1107,7 @@ export class ProductService {
     {
       id: 239,
       name: 'Ruana multicolor',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_negra_blanca.jpeg',
       description: 'Ruana negra y blanca',
@@ -1118,7 +1118,7 @@ export class ProductService {
     {
       id: 240,
       name: 'Ruana multicolor',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_verde_negra_gris.jpeg',
       description: 'Ruana negra, blanca y turquesa',
@@ -1129,7 +1129,7 @@ export class ProductService {
     {
       id: 241,
       name: 'Ruana multicolor clara',
-      size: 'S',
+      size: '1',
       category: 'ruanas',
       image: 'ruana_clara.jpeg',
       description: 'Ruana gris, blanca y crema',
@@ -1221,6 +1221,51 @@ export class ProductService {
       category: 'sweaters',
       image: 'sweater_hilo_3_25000.jpeg',
       description: 'Sweater hilo',
+      price: 25000,
+      stock: 1,
+      cantidad: 1
+    },
+    //sacos
+    {
+      id: 290,
+      name: 'Saco rosa viejo',
+      size: '4',
+      category: 'sacos',
+      image: 'saco_paño_rosa_viejo_4_42000.jpeg',
+      description: 'Saco paño',
+      price: 42000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 291,
+      name: 'Camisaco blanco',
+      size: '4',
+      category: 'sacos',
+      image: 'camisaco_blanco_4_36000.jpeg',
+      description: 'Camisaco blanco',
+      price: 36000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 292,
+      name: 'Blazer blanco',
+      size: '1',
+      category: 'sacos',
+      image: 'Blazer_blanco_1_40000.jpeg',
+      description: 'Blazer blanco',
+      price: 40000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 293,
+      name: 'Sweater negro',
+      size: '1',
+      category: 'sacos',
+      image: 'sweater_lanilla_negro_1.jpeg',
+      description: 'Sweater de lanilla',
       price: 25000,
       stock: 1,
       cantidad: 1
@@ -1479,7 +1524,40 @@ export class ProductService {
       stock: 1,
       cantidad: 1
     },
-
+    //camisa, remera
+    {
+      id: 290,
+      name: 'Remera negra',
+      size: 'L',
+      category: 'remera',
+      image: 'remera_termica_negra_L_17000.jpeg',
+      description: 'Remera térmica',
+      price: 17000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 291,
+      name: 'Remera blanca',
+      size: 'M',
+      category: 'remera',
+      image: 'remera_termica_blanca_M_17000.jpeg',
+      description: 'Remera térmica',
+      price: 17000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 291,
+      name: 'Remera blanca',
+      size: 'L',
+      category: 'remera',
+      image: 'remera_termica_blanca_L_17000.jpeg',
+      description: 'Remera térmica',
+      price: 17000,
+      stock: 1,
+      cantidad: 1
+    },
 
     /*
     //medias, soquetes
@@ -1535,62 +1613,6 @@ export class ProductService {
       category: 'soquetes',
       image: 'niño2.png',
       description: 'Soquetes cómodos',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    //camisa, remera
-    {
-      id: 77,
-      name: 'Producto 1',
-      size: 'S',
-      category: 'camisa',
-      image: 'camisa1.jpg',
-      description: 'Remera cómodas',
-      price: 1499,
-      stock: 1,
-      cantidad: 1
-    },
-    {
-      id: 78,
-      name: 'Producto 2',
-      size: 'M',
-      category: 'camisa',
-      image: 'camisa2.jpg',
-      description: 'Remera cómodas',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 79,
-      name: 'Producto 3',
-      size: 'L',
-      category: 'remera',
-      image: 'remera1.jpg',
-      description: 'Remera cómodas',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 80,
-      name: 'Producto 4',
-      size: 'XL',
-      category: 'remera',
-      image: 'remera2.jpg',
-      description: 'Remera cómodas',
-      price: 1499,
-      stock: 10,
-      cantidad: 9
-    },
-    {
-      id: 81,
-      name: 'Producto 5',
-      size: 'XXL',
-      category: 'camisa',
-      image: 'camisa3.jpg',
-      description: 'Camisa cómoda',
       price: 1499,
       stock: 10,
       cantidad: 9
