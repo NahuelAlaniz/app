@@ -196,6 +196,152 @@ export class ProductService {
       stock: 1,
       cantidad: 1
     },
+    //conjunto nena
+    {
+      id: 91,
+      name: 'Conjunto negro',
+      size: '12',
+      category: 'niña',
+      image: 'conjunto_nena_negro_12_10000.jpeg',
+      description: 'Conjunto de algodón',
+      price: 10000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 92,
+      name: 'Conjunto rosado',
+      size: '16',
+      category: 'niña',
+      image: 'conjunto_nena_rosado_16_11000.jpeg',
+      description: 'Conjunto de algodón',
+      price: 11000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 93,
+      name: 'Conjunto rosado y celeste',
+      size: '14',
+      category: 'niña',
+      image: 'conjunto_nena_14_12000.jpeg',
+      description: 'Conjunto de algodón',
+      price: 12000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 93,
+      name: 'Conjunto amarillo',
+      size: '14',
+      category: 'niña',
+      image: 'conjunto_nena_12_10000.jpeg',
+      description: 'Conjunto de algodon bordado de corazones',
+      price: 12000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 93,
+      name: 'Conjunto amarillo ',
+      size: '12',
+      category: 'niña',
+      image: 'conjunto_nena_12_9000.jpeg',
+      description: 'Conjunto de algodon bordado de flechas y plumas',
+      price: 9000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 94,
+      name: 'Bombacha',
+      size: '12',
+      category: 'niña',
+      image: 'pack_x3_bombchas_nena_algodon_12_12000_2unidades.jpeg',
+      description: 'Pack x3 de algodón rosado amarillo y celeste',
+      price: 12000,
+      stock: 2,
+      cantidad: 2
+    },
+    {
+      id: 95,
+      name: 'Bombacha',
+      size: '10',
+      category: 'niña',
+      image: 'pack_x3_bombachas_nena_algodon_10_12_12000.jpeg',
+      description: 'Pack x3 de algodón gris, rosado y blanco',
+      price: 12000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 95,
+      name: 'Bombacha',
+      size: '12',
+      category: 'niña',
+      image: 'pack_x3_bombachas_nena_algodon_10_12_12000.jpeg',
+      description: 'Pack x3 de algodón gris, rosado y blanco',
+      price: 12000,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 96,
+      name: 'Bombacha',
+      size: '12',
+      category: 'niña',
+      image: 'bombacha_pack_x3_12_13500.jpeg',
+      description: 'Pack x3 de algodón gris, estampado ajedrez y blanco',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 97,
+      name: 'Bombacha',
+      size: '10',
+      category: 'niña',
+      image: 'bombacha_pack_x3_10_13500.jpeg',
+      description: 'Pack x3 de algodón gris, verde y blanco',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 98,
+      name: 'Bombacha',
+      size: '10',
+      category: 'niña',
+      image: 'bombacha_pack_x3_10_13500_.jpeg',
+      description: 'Pack x3 de algodón estampado cebra, gris y naranja',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 99,
+      name: 'Bombacha',
+      size: '16',
+      category: 'niña',
+      image: 'bombacha_pack_x3_16_13500.jpeg',
+      description: 'Pack x3 de algodón verde, gris estampado jaguar y blanco',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 100,
+      name: 'Bombacha',
+      size: '10',
+      category: 'niña',
+      image: 'bombacha_pack_x3_10_13500__.jpeg',
+      description: 'Pack x3 de algodón blanco, naranja con bordado de huellas y gris',
+      price: 13500,
+      stock: 1,
+      cantidad: 1
+    },
+
+
 
     //conjunto talle 85
     {
