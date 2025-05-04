@@ -15,6 +15,9 @@
 <!-- Filtro por categoría -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
+    <button type="button" class="btn btn-secondary" (click)="filterByCategory('Panty')">
+      Panty
+    </button>
     <button type="button" class="btn btn-light" (click)="filterByCategory('niña')">
       Conjuntos de niña
     </button>
@@ -42,6 +45,11 @@
 <!-- Filtro por talle -->
 <section class="filter-section">
   <div class="d-flex flex-wrap justify-content-center gap-2 my-2">
+    <button type="button" class="btn btn-secondary" (click)="filterBySize('1')">1</button>
+    <button type="button" class="btn btn-secondary" (click)="filterBySize('2')">2</button>
+    <button type="button" class="btn btn-secondary" (click)="filterBySize('3')">3</button>
+    <button type="button" class="btn btn-secondary" (click)="filterBySize('4')">4</button>
+    <button type="button" class="btn btn-secondary" (click)="filterBySize('5')">5</button>
     <button type="button" class="btn btn-light" (click)="filterBySize('10')">10</button>
     <button type="button" class="btn btn-light" (click)="filterBySize('12')">12</button>
     <button type="button" class="btn btn-light" (click)="filterBySize('14')">14</button>

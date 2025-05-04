@@ -52,7 +52,7 @@ export class conjuntos_bralettes_bodys {
     this.productslistservice = this.productService
       .getProducts()
       .filter((product: { category: string }) =>
-        ['niña', 'Conjunto', 'Bralette', 'Body', 'Corpiño', 'Parte_inferior'].includes(product.category)
+        ['niña', 'Conjunto', 'Bralette', 'Body', 'Corpiño', 'Parte_inferior', 'Panty'].includes(product.category)
       );
     this.filteredProducts = [...this.productslistservice];
   }
@@ -103,8 +103,6 @@ export class conjuntos_bralettes_bodys {
 
     this.cartService.agregarProducto(producto);
   }
-
-
 
 
 

@@ -934,12 +934,134 @@ export class ProductService {
       id: 370,
       name: 'Less de encaje',
       size: '85',
-      category: 'Parte_inferior',
+      category: 'Conjunto',
       image: 'less_de_encaje.jpeg',
       description: 'Pack x3 de less de encaje',
       price: 9000,
       stock: 9,
       cantidad: 9
+    },
+    //Panty
+    {
+      id: 371,
+      name: 'Panty negro',
+      size: '2',
+      category: 'Panty',
+      image: 'panty_negro_2_3_4.jpeg',
+      description: 'Panty color negro',
+      price: 1,
+      stock: 3,
+      cantidad: 3
+    },
+    {
+      id: 372,
+      name: 'Panty negro',
+      size: '3',
+      category: 'Panty',
+      image: 'panty_negro_2_3_4.jpeg',
+      description: 'Panty color negro',
+      price: 1,
+      stock: 4,
+      cantidad: 4
+    },
+    {
+      id: 373,
+      name: 'Panty negro',
+      size: '4',
+      category: 'Panty',
+      image: 'panty_negro_2_3_4.jpeg',
+      description: 'Panty color negro',
+      price: 1,
+      stock: 4,
+      cantidad: 4
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '1',
+      category: 'Panty',
+      image: 'Panty_color_32_1_2_3_4_5.jpeg',
+      description: 'Panty color 32',
+      price: 1,
+      stock: 4,
+      cantidad: 4
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '2',
+      category: 'Panty',
+      image: 'Panty_color_32_1_2_3_4_5.jpeg',
+      description: 'Panty color 32',
+      price: 1,
+      stock: 7,
+      cantidad: 7
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '3',
+      category: 'Panty',
+      image: 'Panty_color_32_1_2_3_4_5.jpeg',
+      description: 'Panty color 32',
+      price: 1,
+      stock: 8,
+      cantidad: 8
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '4',
+      category: 'Panty',
+      image: 'Panty_color_32_1_2_3_4_5.jpeg',
+      description: 'Panty color 32',
+      price: 1,
+      stock: 10,
+      cantidad: 10
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '5',
+      category: 'Panty',
+      image: 'Panty_color_32_1_2_3_4_5.jpeg',
+      description: 'Panty color 32',
+      price: 1,
+      stock: 12,
+      cantidad: 12
+    },
+    {
+      id: 375,
+      name: 'Panty color 32',
+      size: '4',
+      category: 'Panty',
+      image: 'panty_multifilamento_color32_4.jpeg',
+      description: 'Panty multifilamento color 32 ',
+      price: 1,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 376,
+      name: 'Panty negro',
+      size: '2',
+      category: 'Panty',
+      image: 'panty_multifilamento negro_2_3.jpeg',
+      description: 'Panty multifilamento negro',
+      price: 1,
+      stock: 1,
+      cantidad: 1
+    },
+    {
+      id: 377,
+      name: 'Panty negro',
+      size: '3',
+      category: 'Panty',
+      image: 'panty_multifilamento negro_2_3.jpeg',
+      description: 'Panty multifilamento negro',
+      price: 1,
+      stock: 2,
+      cantidad: 2
     },
     //Boxers_niños
     {
