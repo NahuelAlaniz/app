@@ -949,7 +949,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_negro_2_3_4.jpeg',
       description: 'Panty color negro',
-      price: 1,
+      price: 4000,
       stock: 3,
       cantidad: 3
     },
@@ -960,7 +960,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_negro_2_3_4.jpeg',
       description: 'Panty color negro',
-      price: 1,
+      price: 4000,
       stock: 4,
       cantidad: 4
     },
@@ -971,7 +971,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_negro_2_3_4.jpeg',
       description: 'Panty color negro',
-      price: 1,
+      price: 4000,
       stock: 4,
       cantidad: 4
     },
@@ -982,7 +982,7 @@ export class ProductService {
       category: 'Panty',
       image: 'Panty_color_32_1_2_3_4_5.jpeg',
       description: 'Panty color 32',
-      price: 1,
+      price: 4000,
       stock: 4,
       cantidad: 4
     },
@@ -993,7 +993,7 @@ export class ProductService {
       category: 'Panty',
       image: 'Panty_color_32_1_2_3_4_5.jpeg',
       description: 'Panty color 32',
-      price: 1,
+      price: 4000,
       stock: 7,
       cantidad: 7
     },
@@ -1004,7 +1004,7 @@ export class ProductService {
       category: 'Panty',
       image: 'Panty_color_32_1_2_3_4_5.jpeg',
       description: 'Panty color 32',
-      price: 1,
+      price: 4000,
       stock: 8,
       cantidad: 8
     },
@@ -1015,7 +1015,7 @@ export class ProductService {
       category: 'Panty',
       image: 'Panty_color_32_1_2_3_4_5.jpeg',
       description: 'Panty color 32',
-      price: 1,
+      price: 4000,
       stock: 10,
       cantidad: 10
     },
@@ -1026,7 +1026,7 @@ export class ProductService {
       category: 'Panty',
       image: 'Panty_color_32_1_2_3_4_5.jpeg',
       description: 'Panty color 32',
-      price: 1,
+      price: 4000,
       stock: 12,
       cantidad: 12
     },
@@ -1037,7 +1037,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_multifilamento_color32_4.jpeg',
       description: 'Panty multifilamento color 32 ',
-      price: 1,
+      price: 3500,
       stock: 1,
       cantidad: 1
     },
@@ -1048,7 +1048,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_multifilamento_negro_2_3.jpeg',
       description: 'Panty multifilamento negro',
-      price: 1,
+      price: 3500,
       stock: 1,
       cantidad: 1
     },
@@ -1059,7 +1059,7 @@ export class ProductService {
       category: 'Panty',
       image: 'panty_multifilamento_negro_2_3.jpeg',
       description: 'Panty multifilamento negro',
-      price: 1,
+      price: 3500,
       stock: 2,
       cantidad: 2
     },
